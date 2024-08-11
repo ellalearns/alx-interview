@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+contains an algorithm for generating rows of a pascal's triangle
+depending on number of rows provided - 1
+"""
+
 
 def get_next_row(row=0, row_values=[]):
     """
